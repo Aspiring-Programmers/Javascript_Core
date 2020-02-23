@@ -26,6 +26,8 @@ x.sort(function(a, b){return b - a});   // numeric descending sort
 highest = x[0];                         // first item in sorted array is the lowest (or highest) value
 x.sort(function(a, b){return 0.5 - Math.random()});     // random order sort
 
+concat, copyWithin, every, fill, filter, find, findIndex, forEach, indexOf, isArray, join, lastIndexOf, map, pop, push, reduce, reduceRight, reverse, shift, slice, some, sort, splice, toString, unshift, valueOf
+
 /* More Array Methods */
 
 // Accessing Elements I
